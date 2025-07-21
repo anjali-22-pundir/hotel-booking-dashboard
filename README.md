@@ -34,7 +34,7 @@ This project presents an Excel-based interactive dashboard designed to analyze h
   - Pivot Tables & Pivot Charts
   - Slicers
   - Conditional Formatting
-- Dataset: `hotel_bookings.csv` (cleaned and summarized for analysis)
+- Dataset: `hotel_bookings.csv' (cleaned and summarized for analysis)
 
 
 ## 📸 Dashboard Preview
@@ -52,4 +52,4 @@ This project presents an Excel-based interactive dashboard designed to analyze h
 ## 👩‍💻 Author
 
 **Anjali Pundir**  
-_Beginner Data Analyst passionate about dashboards and data storytelling.
+Beginner Data Analyst passionate about dashboards and data storytelling.
